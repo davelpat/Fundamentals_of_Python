@@ -1,0 +1,3 @@
+# The entry point for program execution
+if __name__ == "__main:__"
+    main()

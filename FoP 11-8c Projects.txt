@@ -1,0 +1,59 @@
+11-8c
+Projects
+A sequential search of a sorted list can halt when the target is less than a given element in the list. Define a modified version of this algorithm, and state the computational complexity, using big-O notation, of its best-, worst-, and average-case performances.
+
+The list method reverse reverses the elements in the list. Define a function named reverse that reverses the elements in its list argument (without using the method reverse!). Try to make this function as efficient as possible, and state its computational complexity using big-O notation.
+
+Python’s pow function returns the result of raising a number to a given power. Define a function expo that performs this task, and state its computational complexity using big-O notation. The first argument of this function is the number, and the second argument is the exponent (nonnegative numbers only). You may use either a loop or a recursive function in your implementation. Caution: do not use Python’s ** operator or pow function in this exercise!
+
+An alternative strategy for the expo function uses the following recursive definition:
+
+	expo(number, exponent)
+	= 1, when exponent equals 0
+	= number * expo(number, exponent - 1), when exponent is odd
+	= (expo(number, exponent, // 2))^2, when exponent is even
+	
+Define a recursive function expo that uses this strategy, and state its computational complexity using big-O notation.
+
+Python’s list method sort includes the keyword argument reverse, whose default value is False. The programmer can override this value to sort a list in descending order. Modify the selectionSort function discussed in this chapter so that it allows the programmer to supply this additional argument to redirect the sort.
+
+Modify the recursive Fibonacci function to employ the memoization technique discussed in this chapter. The function creates a dictionary and then defines a nested recursive helper function. The base case is the same as before. However, before making a recursive call, the helper function looks up the value for the function’s current argument in the dictionary (use the method get, with None as the default value). If the value exists, the function returns it. Otherwise, after the helper function adds the results of its two recursive calls, it saves the sum in the dictionary with the current argument of the function as the key. Also use the Counter object discussed in this chapter to count the number of recursive calls of the helper function.
+
+Profile the performance of the memoized version of the Fibonacci function defined in Project 6. The function should count the number of recursive calls. State its computational complexity using big-O notation, and justify your answer.
+
+The function makeRandomList creates and returns a list of numbers of a given size (its argument). The numbers in the list are unique and range from 1 through the size. They are placed in random order. Here is the code for the function:
+
+def makeRandomList(size):
+    lyst = []
+    for count in range(size):
+        while True:
+            number = random.randint(1, size)
+            if not number in lyst:
+                lyst.append(number)
+                break
+    return lyst
+
+You may assume that range, randint, and append are constant time functions. You may also assume that random.randint more rarely returns duplicate numbers as the range between its arguments increases. State the computational complexity of this function using big-O notation, and justify your answer.
+
+As discussed in Chapter 6, a computer supports the calls of recursive functions using a structure called the call stack. Generally speaking, the computer reserves a constant amount of memory for each call of a function. Thus, the memory used by a recursive function can be subjected to complexity analysis. State the computational complexity of the memory used by the recursive factorial and Fibonacci functions, as defined in Chapter 6.
+
+The function that draws c-curves, and which was discussed in Chapter 7, has two recursive calls. Here is the code:
+
+def cCurve(t, x1, y1, x2, y2, level):
+
+    def drawLine(x1, y1, x2, y2):
+        """Draws line segment between the endpoints"""
+        t.up()
+        t.goto(x1, y1)
+        t.down()
+        t.goto(x2, y2)
+
+    if level == 0:
+        drawLine(x1, y1, x2, y2)
+    else:
+        xm = (x1 + x2 + y1 - y2) // 2
+        ym = (x2 + y1 + y2 - x1) // 2
+        cCurve(t, x1, y1, xm, ym, level - 1)
+        cCurve(t, xm, ym, x2, y2, level - 1)
+
+You can assume that the function drawLine runs in constant time. State the computational complexity of the cCurve function, in terms of the level, using big-O notation. Also, draw a call tree for a call of this function with a level of 3.

@@ -1,0 +1,39 @@
+"""
+Instructions for programming Exercise 10.1
+
+Redo the producer/consumer program so that it allows multiple consumers. Each
+consumer must be able to consume the same data before the producer produces more
+data.
+
+The program should
+
+Print the message Consumer # starting up, where # is the number of the consumer
+starting from 0. The producer will set the data as many times as there are
+accesses, giving each consumer thread a chance to access the data each time. The
+producer should set the data to 1 intially, and then increment it for each
+additional access. After each consumer has consumed the data for each access,
+print the message Consumer # is done consuming, where # is the number of the
+consumer starting from 0. A sample program execution is shown below. Note that
+the order of the consumer start ups and accesses may vary with each program
+execution.
+
+Enter the number of consumers: 2
+Enter the number of accesses: 3
+Starting the threads
+Producer starting up
+Consumer 0 starting up
+Consumer 1 starting up
+Producer setting data to 1
+Consumer 1 accessing data 1
+Consumer 0 accessing data 1
+Producer setting data to 2
+Consumer 0 accessing data 2
+Consumer 1 accessing data 2
+Producer setting data to 3
+Producer is done producing
+Consumer 0 accessing data 3
+Consumer 0 is done consuming
+Consumer 1 accessing data 3
+Consumer 1 is done consuming 
+"""
+

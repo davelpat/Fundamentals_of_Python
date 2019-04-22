@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Ch3 exercises/leibniz.py" line="28" mnemonic="6" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7edb099d-51d2-4897-a859-1d67252b6fe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Fundamentals_of_Python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch10 exercises/reader-writer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="111" column="59" selection-start-line="111" selection-start-column="43" selection-end-line="111" selection-end-column="59" />
+              <folding>
+                <element signature="e#37#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch11 exercises/producer-consumer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch10 exercises/producer-consumer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tax</find>
+      <find>button</find>
+      <find>button(</find>
+      <find>radio</find>
+      <find>=</find>
+      <find>span</find>
+      <find>open</find>
+      <find>textarea</find>
+      <find>title</find>
+      <find>def get</find>
+      <find>def</find>
+      <find>self.</find>
+      <find>^class</find>
+      <find>canvas</find>
+      <find>decimalto</find>
+      <find>self.debug</find>
+      <find>addL</find>
+      <find>self.roll_total</find>
+      <find>[&quot;state&quot;] = &quot;active&quot;</find>
+      <find>5</find>
+      <find>sort</find>
+      <find>QUALIFIERS</find>
+      <find>REPLACEMENTS</find>
+      <find>Response</find>
+      <find>Self</find>
+      <find>textArea</find>
+      <find>producer</find>
+      <find>consum</find>
+      <find>read</find>
+      <find>main</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>is_sorted</replace>
+      <replace>jump_tablemp [</replace>
+      <replace>] =</replace>
+      <replace>1</replace>
+      <replace>%i</replace>
+      <replace>2</replace>
+      <replace>colors</replace>
+      <replace>old</replace>
+      <replace>factor</replace>
+      <replace>new</replace>
+      <replace>save</replace>
+      <replace>=</replace>
+      <replace># self.debug</replace>
+      <replace>roll_total</replace>
+      <replace>num_scores</replace>
+      <replace>Doctor.QUALIFIERS</replace>
+      <replace>Doctor.REPLACEMENTS</replace>
+      <replace>self</replace>
+      <replace>consumer</replace>
+      <replace>writ</replace>
+      <replace>read</replace>
+      <replace>consum</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/Ch5 exercises</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ch4 exercises/encrypt-file.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/octalToDecimal.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/shiftLeft.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/shiftRight.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/encrypt-str.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/decrrypt-str.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/copyFile.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/dif.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/textanalysis.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/payroll.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/temperatureconverter.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/texteditor.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/file_dialog.py" />
+        <option value="$PROJECT_DIR$/Student_Files/Ch_09_Student_Files/craps.py" />
+        <option value="$PROJECT_DIR$/Ch4 exercises/decimalToOctal.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/stats.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/navigate.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/generator.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/convert.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/unique.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/concordance.py" />
+        <option value="$PROJECT_DIR$/Ch5 exercises/doctor.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/imagebrowser.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/breezypythongui.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/guesswithgui.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/dicedemo.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/student.py" />
+        <option value="$PROJECT_DIR$/Ch8 exercises/tidbitwithgui.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/savingsaccount.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/bank.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/bank_9.3.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/9.3_bank.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/ex9.3_bank.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/ex93bank.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/atm.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/doctor.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/craps.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/craps2-course.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/cards.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/testshapes.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/shapes.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/turtle.cfg" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/crapsgui.py" />
+        <option value="$PROJECT_DIR$/Ch9 exercises/cardsgui.py" />
+        <option value="$PROJECT_DIR$/Ch10 exercises/sleepythreads.py" />
+        <option value="$PROJECT_DIR$/Ch10 exercises/reader-writer.py" />
+        <option value="$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/testquicksort.py" />
+        <option value="$PROJECT_DIR$/Ch11 exercises/merge_sort.py" />
+        <option value="$PROJECT_DIR$/Ch11 exercises/producer-consumer.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/Ch10 exercises/producer-consumer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="332" />
+    <option name="y" value="158" />
+    <option name="width" value="1080" />
+    <option name="height" value="659" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Fundamentals_of_Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Workspaces/Python/Fundamentals_of_Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Fundamentals_of_Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Workspaces/Python/Fundamentals_of_Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Ch11 exercises" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fundamentals_of_Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Workspaces/Python/Fundamentals_of_Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Student_Files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fundamentals_of_Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Workspaces/Python/Fundamentals_of_Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Student_Files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ch_11_student_files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fundamentals_of_Python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Workspaces/Python/Fundamentals_of_Python" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Student_Files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ch_11_student_files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Ch_11_Student_Files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fundamentals_of_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fundamentals_of_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Ch3 exeercises" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ch11 exercises" />
+      <recent name="$PROJECT_DIR$/Ch9 exercises" />
+      <recent name="$PROJECT_DIR$/Ch8 exercises" />
+      <recent name="$PROJECT_DIR$/Ch6 exercises" />
+      <recent name="$PROJECT_DIR$/Ch4 exercises" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.producer-consumer">
+    <configuration name="cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch9 exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch9 exercises/cards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch11 exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch11 exercises/merge_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="producer-consumer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10 exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10 exercises/producer-consumer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reader-writer" type="PythonConfigurationType" factoryName="Python">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10 exercises" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10 exercises/reader-writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sleepythreads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10 exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10 exercises/sleepythreads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testquicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-world" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/testquicksort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cards" />
+      <item itemvalue="Python.merge_sort" />
+      <item itemvalue="Python.producer-consumer" />
+      <item itemvalue="Python.reader-writer" />
+      <item itemvalue="Python.sleepythreads" />
+      <item itemvalue="Python.testquicksort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.producer-consumer" />
+        <item itemvalue="Python.merge_sort" />
+        <item itemvalue="Python.testquicksort" />
+        <item itemvalue="Python.sleepythreads" />
+        <item itemvalue="Python.cards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7edb099d-51d2-4897-a859-1d67252b6fe4" name="Default Changelist" comment="" />
+      <created>1533833795464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533833795464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="332" y="158" width="1080" height="659" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.23135033" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.20245399" />
+      <window_info id="Favorites" order="2" sideWeight="0.50150603" side_tool="true" weight="0.20245399" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32743362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38362575" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32930845" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32853982" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2710177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.22372882" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.20245399" />
+      <window_info id="Favorites" order="2" sideWeight="0.50150603" side_tool="true" weight="0.20245399" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32743362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33075222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36283186" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32930845" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32930845" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2710177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch7 exercises/enlarge.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch7 exercises/enlarge.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch9 exercises/doctor.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch11 exercises/merge_sort.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch11 exercises/merge_sort.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>lst2 = sorted(['Brandon/1004', 'Jack/1000', 'Jack/1003', 'Jack/1008', 'Jill/1006', 'Jill/1009', 'Ken/1002', 'Ken/1007', 'Mark/1001', 'Molly/1005'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lst2 = sorted(&lt;class 'list'&gt;: ['Brandon/1004', 'Jack/1000', 'Jack/1003', 'Jack/1008', 'Jill/1006', 'Jill/1009', 'Ken/1002', 'Ken/1007', 'Mark/1001', 'Molly/1005'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lst2 = sorted(lst)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lst2 = lst.sorted()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(colors_list[0:3])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>7</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>5</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>str(inLine)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inLine</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>empData[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>empData[RATE]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>empData[NAME]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ch8 exercises/file_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/craps2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/craps2-course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="31" lean-forward="true" selection-start-line="95" selection-start-column="31" selection-end-line="95" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/breezypythongui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="375" column="26" selection-start-line="375" selection-start-column="26" selection-end-line="375" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/DECK/j.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/DECK/COPYING">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/turtle.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/cardsgui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/crapsgui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="61" selection-start-line="60" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/testshapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/shapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py" />
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/die.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="24" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch10 exercises/sleepythreads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/testquicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="50" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch11 exercises/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/timing1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$PROJECT_DIR$/Ch2 exercises/cube.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch2 exercises/taxform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch3 exercises/population.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch4 exercises/textanalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch4 exercises/copyFrom.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/concordance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/convert.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/doctor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="125" column="10" selection-start-line="124" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/unique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/summation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1373" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch5 exercises/mainNote.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch6 exercises/average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch6 exercises/newton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch6 exercises/numbers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch6 exercises/summation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch6 exercises/testprintlist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch7 exercises/ccurve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch8 exercises/bouncywithgui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-773" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch8 exercises/texteditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch8 exercises/temperatureconverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-967" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch8 exercises/taxformwithgui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/savingsaccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/bank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1570">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch9 exercises/atm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoP 10-4c Projects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student_Files/ch_11_student_files/Ch_11_Student_Files/counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch10 exercises/reader-writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="111" column="59" selection-start-line="111" selection-start-column="43" selection-end-line="111" selection-end-column="59" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch10 exercises/producer-consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch11 exercises/producer-consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
